@@ -1,4 +1,4 @@
-print('yo mama loves the python!!')
+print('yo devs love programming the python!!')
 print(1+2)
 print(7*334)
 print()
